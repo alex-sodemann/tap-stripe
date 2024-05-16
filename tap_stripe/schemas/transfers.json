@@ -118,6 +118,12 @@
         "string"
       ]
     },
+    "destination_payment": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
     "automatic": {
       "type": [
         "null",
